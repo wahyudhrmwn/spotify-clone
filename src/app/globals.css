@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .no-scrollbar {
+    /* Sembunyikan scrollbar */
+    scrollbar-width: none; /* Firefox */
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Edge */
+  }
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ================== STYLE UNTUK MENU HELP > TROUBLESHOOTING ================= */
+/* Custom group class */
+.custom-group {
+  position: relative; /* Sama seperti group, untuk memastikan hover bekerja dengan posisi relatif */
+}
+
+/* Custom group-hover class */
+.custom-group-hover\:block {
+  display: none; /* Default tidak terlihat */
+}
+
+.custom-group:hover .custom-group-hover\:block {
+  display: block; /* Tampilkan saat di-hover */
+}
+/* ================== STYLE UNTUK MENU HELP > TROUBLESHOOTING ================= */

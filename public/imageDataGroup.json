@@ -1,0 +1,89 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "url": "/assets/gambar (1).png",
+      "description": "Pop Legends: Taylor Swift, Ed Sheeran, Adele, Bruno Mars, Ariana Grande"
+    },
+    {
+      "id": 2,
+      "url": "/assets/gambar (2).png",
+      "description": "Rock Icons: Queen, The Beatles, Led Zeppelin, Pink Floyd, Rolling Stones"
+    },
+    {
+      "id": 3,
+      "url": "/assets/gambar (3).png",
+      "description": "Hip-Hop Stars: Kendrick Lamar, Drake, Nicki Minaj, Kanye West, Travis Scott"
+    },
+    {
+      "id": 4,
+      "url": "/assets/gambar (4).png",
+      "description": "Indie Favorites: Arctic Monkeys, Florence + The Machine, The 1975, Bon Iver, Tame Impala"
+    },
+    {
+      "id": 5,
+      "url": "/assets/gambar (5).png",
+      "description": "Classical Masters: Ludwig van Beethoven, Wolfgang Amadeus Mozart, Johann Sebastian Bach, Frédéric Chopin, Pyotr Tchaikovsky"
+    },
+    {
+      "id": 6,
+      "url": "/assets/gambar (6).png",
+      "description": "Jazz Legends: Miles Davis, Louis Armstrong, John Coltrane, Ella Fitzgerald, Duke Ellington"
+    },
+    {
+      "id": 7,
+      "url": "/assets/gambar (7).png",
+      "description": "Country Greats: Johnny Cash, Dolly Parton, Garth Brooks, Willie Nelson, Shania Twain"
+    },
+    {
+      "id": 8,
+      "url": "/assets/gambar (8).png",
+      "description": "R&B Icons: Beyoncé, Alicia Keys, Usher, Rihanna, Mariah Carey"
+    },
+    {
+      "id": 9,
+      "url": "/assets/gambar (9).png",
+      "description": "Electronic Giants: Daft Punk, Calvin Harris, Deadmau5, Avicii, The Chainsmokers"
+    },
+    {
+      "id": 10,
+      "url": "/assets/gambar (10).png",
+      "description": "Reggae Masters: Bob Marley, Peter Tosh, Jimmy Cliff, Damian Marley, Shaggy"
+    },
+    {
+      "id": 11,
+      "url": "/assets/gambar (11).png",
+      "description": "Latin Stars: Shakira, Enrique Iglesias, Ricky Martin, Bad Bunny, J Balvin"
+    },
+    {
+      "id": 12,
+      "url": "/assets/gambar (12).png",
+      "description": "K-Pop Sensations: BTS, BLACKPINK, EXO, TWICE, Stray Kids"
+    },
+    {
+      "id": 13,
+      "url": "/assets/gambar (13).png",
+      "description": "Blues Icons: B.B. King, Muddy Waters, Etta James, Robert Johnson, Stevie Ray Vaughan"
+    },
+    {
+      "id": 14,
+      "url": "/assets/gambar (14).png",
+      "description": "Folk Legends: Bob Dylan, Simon & Garfunkel, Joan Baez, Joni Mitchell, Woody Guthrie"
+    },
+    {
+      "id": 15,
+      "url": "/assets/gambar (15).png",
+      "description": "Soul Stars: Aretha Franklin, Sam Cooke, Otis Redding, Al Green, Marvin Gaye"
+    },
+    {
+      "id": 16,
+      "url": "/assets/gambar (16).png",
+      "description": "Alternative Rock: Nirvana, Radiohead, The Smashing Pumpkins, Pearl Jam, Foo Fighters"
+    },
+    {
+      "id": 17,
+      "url": "/assets/gambar (17).png",
+      "description": "Dance Hits: David Guetta, Tiësto, Zedd, Martin Garrix, Armin van Buuren"
+    }
+  ]
+}
