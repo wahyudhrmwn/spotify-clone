@@ -36,23 +36,13 @@ const LeftSide: React.FC = () => {
     dispatch(setExpandedLeft(!expanded)); // Update Redux state
   };
 
-  // const handleMenuClick = (menuTitle: string) => {
-  //     dispatch(setToastMessage(`You clicked on: ${menuTitle}`)); // Update Redux state
-  //     dispatch(setSelectedDetail(menuTitle)); // Update Redux state
-  //     setTimeout(() => dispatch(setToastMessage(null)), 3000);
-  //   };
-
   const handleMenuClick = (menuId: string, menuType: string) => {
-    // Update the state with the selected menu
     if (currentMenu !== menuId) {
       dispatch(resetPlaylist());
       setMenuId(menuId);
       setMenuType(menuType);
-
-      // dispatch(setToastMessage(`You clicked on: ${menuId}`)); // Update Redux state
       dispatch(setSelectedDetail(menuId)); // Update Redux state
       dispatch(setDetailPlaylist(parseInt(menuId)));
-      // setTimeout(() => dispatch(setToastMessage(null)), 3000);
     }
   };
 
