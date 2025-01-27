@@ -1,0 +1,77 @@
+[
+  {
+    "label": "File",
+    "submenu": [
+      { "label": "New Playlist" },
+      { "label": "New Playlist Folder" },
+      { "divider": true },
+      { "label": "Private Session" },
+      { "divider": true },
+      { "label": "Logout" },
+      { "divider": true },
+      { "label": "Exit" }
+    ]
+  },
+  {
+    "label": "Edit",
+    "submenu": [
+      { "label": "Undo", "shortcut": "Ctrl+Z" },
+      { "label": "Redo", "shortcut": "Ctrl+Y" },
+      { "divider": true },
+      { "label": "Cut", "shortcut": "Ctrl+X" },
+      { "label": "Copy", "shortcut": "Ctrl+C" },
+      { "label": "Paste", "shortcut": "Ctrl+V" },
+      { "label": "Delete", "shortcut": "Ctrl+Z" },
+      { "divider": true },
+      { "label": "Select All", "shortcut": "Ctrl+A" },
+      { "divider": true },
+      { "label": "Search", "shortcut": "Ctrl+L" },
+      { "label": "Filter", "shortcut": "Ctrl+F" },
+      { "divider": true },
+      { "label": "Preferences...", "shortcut": "Ctrl+P" }
+    ]
+  },
+  {
+    "label": "View",
+    "submenu": [
+      { "label": "Zoom In", "shortcut": "Ctrl+=" },
+      { "label": "Zoom Out", "shortcut": "Ctrl+-" },
+      { "label": "Reset Zoom", "shortcut": "Ctrl+0" }
+    ]
+  },
+  {
+    "label": "Playback",
+    "submenu": [
+      { "label": "Play", "shortcut": "Space" },
+      { "divider": true },
+      { "label": "Next", "shortcut": "Ctrl+Right Arrow" },
+      { "label": "Previous", "shortcut": "Ctrl+Left Arrow" },
+      { "label": "Seek Forward", "shortcut": "Shift+Right Arrow" },
+      { "label": "Seek Backward", "shortcut": "Shift+Left Arrow" },
+      { "divider": true },
+      { "label": "Shuffle", "shortcut": "Ctrl+S" },
+      { "label": "Repeat", "shortcut": "Ctrl+R" },
+      { "divider": true },
+      { "label": "Volume Up", "shortcut": "Ctrl+Up Arrow" },
+      { "label": "Volume Down", "shortcut": "Ctrl+Down Arrow" }
+    ]
+  },
+  {
+    "label": "Help",
+    "submenu": [
+      { "label": "Spotify Help", "shortcut": "F1" },
+      { "label": "Spotify Community" },
+      { "label": "Your Account" },
+      { "divider": true },
+      { "label": "Third-party Software" },
+      { "divider": true },
+      {
+        "label": "Troubleshooting",
+        "submenu": [
+          { "label": "Network Issues" },
+          { "label": "Playback Issues" }
+        ]
+      }
+    ]
+  }
+]

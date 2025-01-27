@@ -18,8 +18,8 @@ export default {
         customBgListMenu: '#343434',
         customBgHover: '#203A39',
         customBgHoverListMenu: '#575757',
-        customTextColor: '#f2f2f2',
-        customTextHover: '#cccccc'
+        customTextColor: '#cccccc',
+        customTextHover: '#f2f2f2'
       },
       boxShadow: {
         left: '-6px 0 6px 0px rgba(0, 0, 0, 0.2)', // Custom shadow for the right side

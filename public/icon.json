@@ -1,0 +1,13 @@
+{
+  "icons": {
+    "FaAngleRight": "react-icons/fa",
+    "FaBell": "react-icons/fa",
+    "FaChevronLeft": "react-icons/fa",
+    "FaChevronRight": "react-icons/fa",
+    "FaEllipsisH": "react-icons/fa",
+    "FaHome": "react-icons/fa",
+    "FaSearch": "react-icons/fa",
+    "FaSpotify": "react-icons/fa",
+    "FaUsers": "react-icons/fa"
+  }
+}
