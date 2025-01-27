@@ -16,98 +16,6 @@ import { TbArrowsShuffle, TbMicrophone2 } from "react-icons/tb";
 import Image from "next/image";
 
 const Footer: React.FC = () => {
-  // const audioRef = useRef<HTMLAudioElement>(null); // Referensi elemen audio
-  // const [isPlaying, setIsPlaying] = useState(false); // Status play/pause
-  // const [currentTime, setCurrentTime] = useState(0); // Waktu saat ini
-  // const [duration, setDuration] = useState(0); // Durasi total
-
-  // // Format waktu dari detik ke mm:ss
-  // const formatTime = (seconds: number) => {
-  //   const minutes = Math.floor(seconds / 60);
-  //   const secs = Math.floor(seconds % 60);
-  //   return `${minutes}:${secs.toString().padStart(2, "0")}`;
-  // };
-
-  // // Handle loaded metadata event untuk mendapatkan durasi audio
-  // const handleLoadedMetadata = () => {
-  //   if (audioRef.current) {
-  //     setDuration(audioRef.current.duration); // Mengatur ulang durasi
-  //   }
-  // };
-
-  // // Handle play/pause button
-  // const handlePlayPause = () => {
-  //   if (audioRef.current) {
-  //     if (isPlaying) {
-  //       audioRef.current.pause();
-  //     } else {
-  //       audioRef.current.play();
-  //     }
-  //     setIsPlaying(!isPlaying);
-  //   }
-  // };
-
-  // // Update current time saat audio dimainkan
-  // const handleTimeUpdate = () => {
-  //   if (audioRef.current) {
-  //     setCurrentTime(audioRef.current.currentTime);
-  //   }
-  // };
-
-  // // Progress bar click handler
-  // const handleProgressClick = (e: React.MouseEvent<HTMLProgressElement>) => {
-  //   const progressBar = e.currentTarget;
-  //   const rect = progressBar.getBoundingClientRect();
-  //   const clickX = e.clientX - rect.left;
-  //   const newTime =
-  //     (clickX / progressBar.offsetWidth) * (audioRef.current?.duration || 0);
-  //   if (audioRef.current) {
-  //     audioRef.current.currentTime = newTime;
-  //     setCurrentTime(newTime);
-  //   }
-  // };
-
-  // // Forward audio
-  // const handleForward = () => {
-  //   if (audioRef.current) {
-  //     const newTime = Math.min(audioRef.current.currentTime + 10, duration); // Maksimal durasi
-  //     audioRef.current.currentTime = newTime;
-  //     setCurrentTime(newTime);
-  //   }
-  // };
-
-  // // Rewind audio
-  // const handleRewind = () => {
-  //   if (audioRef.current) {
-  //     const newTime = Math.max(audioRef.current.currentTime - 10, 0); // Minimal 0
-  //     audioRef.current.currentTime = newTime;
-  //     setCurrentTime(newTime);
-  //   }
-  // };
-
-  // // Reset duration and currentTime on component mount (setelah refresh)
-  // useEffect(() => {
-  //   if (audioRef.current) {
-  //     // Event loadedmetadata hanya dipicu saat metadata berhasil dimuat
-  //     audioRef.current.addEventListener("loadedmetadata", handleLoadedMetadata);
-
-  //     // Memastikan duration di-set setelah refresh
-  //     setCurrentTime(0);
-  //     setDuration(0); // Reset nilai durasi saat halaman di-refresh
-
-  //     // Pastikan audio di-setup dengan benar
-  //     audioRef.current.load();
-
-  //     return () => {
-  //       if (audioRef.current) {
-  //         audioRef.current.removeEventListener(
-  //           "loadedmetadata",
-  //           handleLoadedMetadata
-  //         );
-  //       }
-  //     };
-  //   }
-  // }, []); // Tambahkan efek ini hanya sekali setelah komponen di-mount
 
   const audioRef = useRef<HTMLAudioElement>(null); // Referensi elemen audio
   const [isPlaying, setIsPlaying] = useState(false); // Status play/pause
@@ -284,7 +192,6 @@ const Footer: React.FC = () => {
                 onClick={() => handleMenuClick("Avatar music playing")}
               >
                 <div className="h-16 w-16 rounded">
-                  {/* <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" /> */}
                   <Image
                     src="/assets/gambar (1).png"
                     alt="A beautiful stock photo"

@@ -1,0 +1,630 @@
+{
+  "playlists": {
+    "myPlaylist": [
+      {
+        "playlistId": 1,
+        "url": "/assets/gambar (1).png",
+        "name": "Playlist Wahyu",
+        "description": "My Playlist #1",
+        "songs": [
+          {
+            "songId": 1,
+            "imgSrc": "/assets/gambar (1).png",
+            "title": "Lofi Beats",
+            "artist": "Chillhop Music",
+            "album": "Chill Vibes",
+            "date": "2022-03-01",
+            "time": "3:45"
+          },
+          {
+            "songId": 2,
+            "imgSrc": "/assets/gambar (2).png",
+            "title": "Calm Morning",
+            "artist": "Acoustic Soul",
+            "album": "Morning Bliss",
+            "date": "2022-03-02",
+            "time": "4:00"
+          },
+          {
+            "songId": 3,
+            "imgSrc": "/assets/gambar (3).png",
+            "title": "Rainy Days",
+            "artist": "Ambient Bliss",
+            "album": "Soothing Sounds",
+            "date": "2022-03-03",
+            "time": "5:15"
+          }
+        ]
+      },
+      {
+        "playlistId": 2,
+        "url": "/assets/gambar (2).png",
+        "name": "Playlist Galih",
+        "description": "My Playlist #2",
+        "songs": [
+          {
+            "songId": 4,
+            "imgSrc": "/assets/gambar (3).png",
+            "title": "Sunny Afternoon",
+            "artist": "Guitar Dreams",
+            "album": "Acoustic Chill",
+            "date": "2022-03-04",
+            "time": "3:30"
+          },
+          {
+            "songId": 5,
+            "imgSrc": "/assets/gambar (4).png",
+            "title": "Evening Glow",
+            "artist": "Piano Serenity",
+            "album": "Serenity Notes",
+            "date": "2022-03-05",
+            "time": "4:20"
+          },
+          {
+            "songId": 6,
+            "imgSrc": "/assets/gambar (5).png",
+            "title": "Night Walk",
+            "artist": "Lofi Chill",
+            "album": "Lofi Nights",
+            "date": "2022-03-06",
+            "time": "5:00"
+          }
+        ]
+      },
+      {
+        "playlistId": 3,
+        "url": "/assets/gambar (3).png",
+        "name": "Playlist Amri",
+        "description": "My Playlist #3",
+        "songs": [
+          {
+            "songId": 7,
+            "imgSrc": "/assets/gambar (5).png",
+            "title": "Relaxation Mode",
+            "artist": "Nature Sounds",
+            "album": "Nature Bliss",
+            "date": "2022-03-07",
+            "time": "4:45"
+          },
+          {
+            "songId": 8,
+            "imgSrc": "/assets/gambar (6).png",
+            "title": "Ocean Waves",
+            "artist": "Ambient Bliss",
+            "album": "Water Symphony",
+            "date": "2022-03-08",
+            "time": "3:50"
+          },
+          {
+            "songId": 9,
+            "imgSrc": "/assets/gambar (7).png",
+            "title": "Forest Whisper",
+            "artist": "Chillhop Music",
+            "album": "Green Serenity",
+            "date": "2022-03-09",
+            "time": "4:30"
+          }
+        ]
+      },
+      {
+        "playlistId": 4,
+        "url": "/assets/gambar (4).png",
+        "name": "Playlist Chotiwut",
+        "description": "My Playlist #4",
+        "songs": [
+          {
+            "songId": 10,
+            "imgSrc": "/assets/gambar (7).png",
+            "title": "Soft Piano",
+            "artist": "Calm Tones",
+            "album": "Piano Relax",
+            "date": "2022-03-10",
+            "time": "3:35"
+          },
+          {
+            "songId": 11,
+            "imgSrc": "/assets/gambar (8).png",
+            "title": "Dreamy Nights",
+            "artist": "Lofi Beats",
+            "album": "Dreamy Lofi",
+            "date": "2022-03-11",
+            "time": "4:10"
+          },
+          {
+            "songId": 12,
+            "imgSrc": "/assets/gambar (9).png",
+            "title": "Gentle Breeze",
+            "artist": "Acoustic Soul",
+            "album": "Breezy Notes",
+            "date": "2022-03-12",
+            "time": "4:50"
+          }
+        ]
+      },
+      {
+        "playlistId": 5,
+        "url": "/assets/gambar (5).png",
+        "name": "Playlist Farhan",
+        "description": "My Playlist #5",
+        "songs": [
+          {
+            "songId": 13,
+            "imgSrc": "/assets/gambar (10).png",
+            "title": "Study Beat 1",
+            "artist": "Lo-fi Hip Hop",
+            "album": "Chill Beats",
+            "date": "2022-03-01",
+            "time": "3:10"
+          },
+          {
+            "songId": 14,
+            "imgSrc": "/assets/gambar (11).png",
+            "title": "Study Beat 2",
+            "artist": "Lo-fi Hip Hop",
+            "album": "Chill Beats",
+            "date": "2022-03-02",
+            "time": "3:20"
+          },
+          {
+            "songId": 15,
+            "imgSrc": "/assets/gambar (12).png",
+            "title": "Chill Out",
+            "artist": "Relaxation Sounds",
+            "album": "Peaceful Moments",
+            "date": "2022-03-03",
+            "time": "3:50"
+          }
+        ]
+      },
+      {
+        "playlistId": 6,
+        "url": "/assets/gambar (6).png",
+        "name": "Playlist Okky",
+        "description": "My Playlist #6",
+        "songs": [
+          {
+            "songId": 16,
+            "imgSrc": "/assets/gambar (13).png",
+            "title": "Dreams",
+            "artist": "Ambient Bliss",
+            "album": "Dreamy Vibes",
+            "date": "2022-03-04",
+            "time": "4:30"
+          },
+          {
+            "songId": 17,
+            "imgSrc": "/assets/gambar (14).png",
+            "title": "Evening Serenity",
+            "artist": "Calm Tones",
+            "album": "Relaxing Soundtracks",
+            "date": "2022-03-05",
+            "time": "4:00"
+          },
+          {
+            "songId": 18,
+            "imgSrc": "/assets/gambar (15).png",
+            "title": "Night Sky",
+            "artist": "Nature Sounds",
+            "album": "Calm Evenings",
+            "date": "2022-03-06",
+            "time": "4:10"
+          }
+        ]
+      },
+      {
+        "playlistId": 7,
+        "url": "/assets/gambar (7).png",
+        "name": "Playlist Gading",
+        "description": "My Playlist #7",
+        "songs": [
+          {
+            "songId": 19,
+            "imgSrc": "/assets/gambar (1).png",
+            "title": "Ocean Breeze",
+            "artist": "Piano Serenity",
+            "album": "Chill Piano",
+            "date": "2022-03-07",
+            "time": "3:55"
+          },
+          {
+            "songId": 20,
+            "imgSrc": "/assets/gambar (2).png",
+            "title": "Morning Dew",
+            "artist": "Lofi Beats",
+            "album": "Morning Vibes",
+            "date": "2022-03-08",
+            "time": "3:40"
+          },
+          {
+            "songId": 21,
+            "imgSrc": "/assets/gambar (3).png",
+            "title": "Calming Waves",
+            "artist": "Ambient Bliss",
+            "album": "Ocean Sounds",
+            "date": "2022-03-09",
+            "time": "4:25"
+          }
+        ]
+      },
+      {
+        "playlistId": 8,
+        "url": "/assets/gambar (8).png",
+        "name": "Playlist Merry",
+        "description": "My Playlist #8",
+        "songs": [
+          {
+            "songId": 22,
+            "imgSrc": "/assets/gambar (3).png",
+            "title": "Peaceful Journey",
+            "artist": "Chillhop Music",
+            "album": "Chill Out",
+            "date": "2022-03-10",
+            "time": "4:00"
+          },
+          {
+            "songId": 23,
+            "imgSrc": "/assets/gambar (4).png",
+            "title": "Silent Forest",
+            "artist": "Ambient Bliss",
+            "album": "Forest Retreat",
+            "date": "2022-03-11",
+            "time": "4:35"
+          },
+          {
+            "songId": 24,
+            "imgSrc": "/assets/gambar (5).png",
+            "title": "Tranquil Moments",
+            "artist": "Calm Tones",
+            "album": "Zen Sounds",
+            "date": "2022-03-12",
+            "time": "3:50"
+          }
+        ]
+      },
+      {
+        "playlistId": 9,
+        "url": "/assets/gambar (9).png",
+        "name": "Playlist Deni",
+        "description": "My Playlist #9",
+        "songs": [
+          {
+            "songId": 25,
+            "imgSrc": "/assets/gambar (5).png",
+            "title": "Summer Breeze",
+            "artist": "Guitar Dreams",
+            "album": "Relaxing Vibes",
+            "date": "2022-03-13",
+            "time": "4:00"
+          },
+          {
+            "songId": 26,
+            "imgSrc": "/assets/gambar (6).png",
+            "title": "Moonlit Walk",
+            "artist": "Lofi Chill",
+            "album": "Moonlight Serenity",
+            "date": "2022-03-14",
+            "time": "4:10"
+          },
+          {
+            "songId": 27,
+            "imgSrc": "/assets/gambar (7).png",
+            "title": "Calm Breeze",
+            "artist": "Acoustic Soul",
+            "album": "Summer Breeze",
+            "date": "2022-03-15",
+            "time": "4:15"
+          }
+        ]
+      },
+      {
+        "playlistId": 10,
+        "url": "/assets/gambar (10).png",
+        "name": "Playlist Serly",
+        "description": "My Playlist #10",
+        "songs": [
+          {
+            "songId": 28,
+            "imgSrc": "/assets/gambar (8).png",
+            "title": "Golden Hour",
+            "artist": "Piano Serenity",
+            "album": "Golden Vibes",
+            "date": "2022-03-16",
+            "time": "4:25"
+          },
+          {
+            "songId": 29,
+            "imgSrc": "/assets/gambar (9).png",
+            "title": "Evening Chill",
+            "artist": "Lofi Beats",
+            "album": "Evening Peace",
+            "date": "2022-03-17",
+            "time": "4:40"
+          },
+          {
+            "songId": 30,
+            "imgSrc": "/assets/gambar (10).png",
+            "title": "Twilight Calm",
+            "artist": "Chillhop Music",
+            "album": "Night Peace",
+            "date": "2022-03-18",
+            "time": "5:00"
+          }
+        ]
+      }
+    ],
+    "recommendPlaylist": [
+      {
+        "playlistId": 1,
+        "url": "/assets/gambar (1).png",
+        "description": "Top 40 Pop Hits",
+        "songs": [
+          {
+            "songId": 1,
+            "imgSrc": "/assets/gambar (1).png",
+            "title": "Blinding Lights",
+            "artist": "The Weeknd",
+            "album": "After Hours",
+            "date": "2020-03-20",
+            "time": "3:20"
+          },
+          {
+            "songId": 2,
+            "imgSrc": "/assets/gambar (2).png",
+            "title": "Levitating",
+            "artist": "Dua Lipa",
+            "album": "Future Nostalgia",
+            "date": "2020-03-27",
+            "time": "3:40"
+          },
+          {
+            "songId": 3,
+            "imgSrc": "/assets/gambar (3).png",
+            "title": "As It Was",
+            "artist": "Harry Styles",
+            "album": "Harry's House",
+            "date": "2022-04-01",
+            "time": "3:05"
+          }
+        ]
+      },
+      {
+        "playlistId": 2,
+        "url": "/assets/gambar (2).png",
+        "description": "Trending Indie Songs",
+        "songs": [
+          {
+            "songId": 4,
+            "imgSrc": "/assets/gambar (4).png",
+            "title": "STAY",
+            "artist": "The Kid LAROI & Justin Bieber",
+            "album": "F*ck Love 3: Over You",
+            "date": "2021-07-09",
+            "time": "2:20"
+          },
+          {
+            "songId": 5,
+            "imgSrc": "/assets/gambar (5).png",
+            "title": "Heat Waves",
+            "artist": "Glass Animals",
+            "album": "Dreamland",
+            "date": "2020-06-29",
+            "time": "3:58"
+          },
+          {
+            "songId": 6,
+            "imgSrc": "/assets/gambar (6).png",
+            "title": "Can I Call You Tonight?",
+            "artist": "Dayglow",
+            "album": "Fuzzybrain",
+            "date": "2019-11-14",
+            "time": "4:00"
+          }
+        ]
+      },
+      {
+        "playlistId": 3,
+        "url": "/assets/gambar (3).png",
+        "description": "Viral TikTok Sounds",
+        "songs": [
+          {
+            "songId": 7,
+            "imgSrc": "/assets/gambar (7).png",
+            "title": "abcdefu",
+            "artist": "GAYLE",
+            "album": "abcdefu - Single",
+            "date": "2021-08-13",
+            "time": "3:24"
+          },
+          {
+            "songId": 8,
+            "imgSrc": "/assets/gambar (8).png",
+            "title": "Savage Love",
+            "artist": "Jason Derulo",
+            "album": "Savage Love - Single",
+            "date": "2020-06-11",
+            "time": "3:00"
+          },
+          {
+            "songId": 9,
+            "imgSrc": "/assets/gambar (9).png",
+            "title": "Sunroof",
+            "artist": "Nicky Youre",
+            "album": "Sunroof - Single",
+            "date": "2022-05-06",
+            "time": "2:43"
+          }
+        ]
+      },
+      {
+        "playlistId": 4,
+        "url": "/assets/gambar (4).png",
+        "description": "Chill Acoustic Vibes",
+        "songs": [
+          {
+            "songId": 10,
+            "imgSrc": "/assets/gambar (10).png",
+            "title": "Riptide",
+            "artist": "Vance Joy",
+            "album": "Dream Your Life Away",
+            "date": "2013-03-22",
+            "time": "3:24"
+          },
+          {
+            "songId": 11,
+            "imgSrc": "/assets/gambar (11).png",
+            "title": "I'm Yours",
+            "artist": "Jason Mraz",
+            "album": "We Sing. We Dance. We Steal Things.",
+            "date": "2008-05-15",
+            "time": "4:02"
+          },
+          {
+            "songId": 12,
+            "imgSrc": "/assets/gambar (12).png",
+            "title": "Better Together",
+            "artist": "Jack Johnson",
+            "album": "In Between Dreams",
+            "date": "2005-03-01",
+            "time": "3:27"
+          }
+        ]
+      },
+      {
+        "playlistId": 5,
+        "url": "/assets/gambar (5).png",
+        "description": "Lo-fi Beats for Study",
+        "songs": [
+          {
+            "songId": 13,
+            "imgSrc": "/assets/gambar (13).png",
+            "title": "Study Beat 1",
+            "artist": "Lo-fi Hip Hop",
+            "album": "Chill Beats",
+            "date": "2022-03-01",
+            "time": "3:10"
+          },
+          {
+            "songId": 14,
+            "imgSrc": "/assets/gambar (14).png",
+            "title": "Focus Vibes",
+            "artist": "Chillhop Essentials",
+            "album": "Spring 2022",
+            "date": "2022-04-15",
+            "time": "4:15"
+          },
+          {
+            "songId": 15,
+            "imgSrc": "/assets/gambar (15).png",
+            "title": "Late Night Lofi",
+            "artist": "Lo-fi Chill",
+            "album": "Night Beats",
+            "date": "2022-06-01",
+            "time": "3:45"
+          }
+        ]
+      },
+      {
+        "playlistId": 6,
+        "url": "/assets/gambar (6).png",
+        "description": "Relaxing Classical Music",
+        "songs": [
+          {
+            "songId": 16,
+            "imgSrc": "/assets/gambar (1).png",
+            "title": "Clair de Lune",
+            "artist": "Claude Debussy",
+            "album": "Classical Music Essentials",
+            "date": "1905-01-01",
+            "time": "5:00"
+          },
+          {
+            "songId": 17,
+            "imgSrc": "/assets/gambar (2).png",
+            "title": "Nocturne in E-flat Major",
+            "artist": "Frédéric Chopin",
+            "album": "Chopin: Nocturnes",
+            "date": "1830-01-01",
+            "time": "4:45"
+          },
+          {
+            "songId": 18,
+            "imgSrc": "/assets/gambar (3).png",
+            "title": "The Four Seasons: Spring",
+            "artist": "Antonio Vivaldi",
+            "album": "Vivaldi: The Four Seasons",
+            "date": "1725-01-01",
+            "time": "3:30"
+          }
+        ]
+      },
+      {
+        "playlistId": 7,
+        "url": "/assets/gambar (7).png",
+        "description": "Epic Movie Soundtracks",
+        "songs": [
+          {
+            "songId": 19,
+            "imgSrc": "/assets/gambar (4).png",
+            "title": "Time",
+            "artist": "Hans Zimmer",
+            "album": "Inception OST",
+            "date": "2010-07-16",
+            "time": "4:30"
+          },
+          {
+            "songId": 20,
+            "imgSrc": "/assets/gambar (7).png",
+            "title": "He's a Pirate",
+            "artist": "Klaus Badelt",
+            "album": "Pirates of the Caribbean OST",
+            "date": "2003-07-01",
+            "time": "3:30"
+          },
+          {
+            "songId": 21,
+            "imgSrc": "/assets/gambar (8).png",
+            "title": "The Avengers Theme",
+            "artist": "Alan Silvestri",
+            "album": "The Avengers OST",
+            "date": "2012-04-30",
+            "time": "2:45"
+          }
+        ]
+      },
+      {
+        "playlistId": 8,
+        "url": "/assets/gambar (8).png",
+        "description": "Throwback 90s Hits",
+        "songs": [
+          {
+            "songId": 22,
+            "imgSrc": "/assets/gambar (9).png",
+            "title": "Smells Like Teen Spirit",
+            "artist": "Nirvana",
+            "album": "Nevermind",
+            "date": "1991-09-24",
+            "time": "5:00"
+          },
+          {
+            "songId": 23,
+            "imgSrc": "/assets/gambar (10).png",
+            "title": "I Want It That Way",
+            "artist": "Backstreet Boys",
+            "album": "Backstreet's Back",
+            "date": "1998-07-14",
+            "time": "3:30"
+          },
+          {
+            "songId": 24,
+            "imgSrc": "/assets/gambar (11).png",
+            "title": "Torn",
+            "artist": "Natalie Imbruglia",
+            "album": "Left of the Middle",
+            "date": "1997-09-29",
+            "time": "4:05"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,11 +1,17 @@
 import { configureStore } from '@reduxjs/toolkit';
 import selectedDetailReducer from './selectedDetailSlice';
-import titlePlaylistReducer from './titlePlaylist'
+import expandedLeftReducer from './expandedLeft'
+import toastMessageReducer from './toastMessage'
+import detailPlaylistReducer from './detailPlaylistId'
+import playlistReducer from './playlistSlice';
 
 export const store = configureStore({
   reducer: {
     selectedDetail: selectedDetailReducer,
-    titlePlaylist: titlePlaylistReducer
+    expandedLeft: expandedLeftReducer,
+    toast: toastMessageReducer,
+    detail: detailPlaylistReducer,
+    playlist: playlistReducer,
   },
 });
 
