@@ -29,9 +29,9 @@ import {
 import { useDispatch, useSelector } from "react-redux";
 import { setSelectedDetail } from "../store/selectedDetailSlice";
 import { RootState } from "../store";
-import LeftSide from "./MainContent/LeftSide";
+import LeftSide from "./main-content/LeftSide";
 // import { setToastMessage } from "@/store/toastMessage";
-import DetailPlaylist from "./MainContent/DetailPlaylist";
+import DetailPlaylist from "./main-content/DetailPlaylist";
 import { setDetailPlaylist } from "@/store/detailPlaylistId";
 import axios from "axios";
 import { resetPlaylist, setError, setPlaylist } from "@/store/playlistSlice";
